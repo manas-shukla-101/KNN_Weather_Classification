@@ -35,3 +35,6 @@ The model utilizes a small training set of temperature and humidity pairings:
    ```bash
    streamlit run main.py
    ```
+
+---
+_Made with 💗 by Manas Shukla
