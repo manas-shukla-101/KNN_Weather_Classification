@@ -37,4 +37,4 @@ The model utilizes a small training set of temperature and humidity pairings:
    ```
 
 ---
-_Made with 💗 by Manas Shukla
+_Made with 💗 by Manas Shukla_
